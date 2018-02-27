@@ -17,9 +17,9 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Saira Extra Condensed', serif;
+  font-family: 'Arial', serif;
   font-weight: 700;
-  text-transform: uppercase;
+  text-transform: none;
   color: #343a40;
 }
 
@@ -33,9 +33,9 @@ h2 {
 }
 
 .subheading {
-  text-transform: uppercase;
+  text-transform: none;
   font-weight: 500;
-  font-family: 'Saira Extra Condensed', serif;
+  font-family: 'Arial', serif;
   font-size: 1.35rem;
 }
 
@@ -61,7 +61,7 @@ h2 {
 
 #sideNav .navbar-nav .nav-item .nav-link {
   font-weight: 600;
-  text-transform: uppercase;
+  text-transform: none;
 }
 
 @media (min-width: 992px) {
